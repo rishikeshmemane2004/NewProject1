@@ -8,5 +8,10 @@ public class Test1 {
 	public void getTest1()
 	{
 		System.out.println("*************");
+		System.out.println("*************");
+		System.out.println("*************");
+		System.out.println("*************");
+		System.out.println("*************");
+		
 	}
 }
